@@ -17,11 +17,13 @@ fun main() {
 }
 ```
 
-# ‎ 
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya&size=41&pause=1000&color=F76EE9&center=true&vCenter=true&width=600&lines=Hi%2C+me+Pink+Panda!;Pink+Panda+exists+in+this+earth%3F" alt="Typing SVG" /></a> </h1>
 
 <p align="center">
   <img src="https://github.com/me-PinkPanda/me-PinkPanda/blob/9403693c5d2f05f27d4eeb6978946315f798cf0e/assets/Pink%20Panda.png">
   <a href="https://github.com/me-PinkPanda"><img src="https://github-readme-stats.vercel.app/api?username=me-PinkPanda&hide_border=true&show_icons=true&theme=dark" alt="me-PinkPanda's github stats"></a>
 </p>
+
+
 
 <!--- "Never use html in markdown file, it's against rules..." That's what VSCode said to me --->
