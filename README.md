@@ -5,4 +5,8 @@
   <a href="https://youtube.com/@me_PinkPanda" target="_blank" class="RNpQXe AIKCSc" style="width: 44px; height: 44px; margin: 3px;"><img src="https://ssl.gstatic.com/atari/images/sociallinks/youtube_gray_44dp.png" alt="YouTube" class="lEB4Hf" style="width: 44px; height: 44px;" width="44" height="44"></a>
 </div>
 
+<p align="center">
+  <a href="https://github.com/me-PinkPanda"><img src="https://github-readme-stats.vercel.app/api?username=me-PinkPanda&hide_border=false&show_icons=true" alt="me-PinkPanda's github stats"></a>
+</p>
+
 <!--- Never use html in markdown file, it's against rules... --->
