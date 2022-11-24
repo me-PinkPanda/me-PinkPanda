@@ -16,7 +16,7 @@
 ```kotlin
 fun main() {
    var me = "Panda"
-   var color = "Pink"
+   var color = "Pink" // you can change color
    var name = "${color} ${me}"
 
    if (color == "Pink") {println("Hi, me ${name}!")} 
