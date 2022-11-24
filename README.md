@@ -4,8 +4,11 @@
   <a href="https://twitter.com/Me_PinkPanda/" target="_blank" class="RNpQXe AIKCSc" style="width: 44px; height: 44px; margin: 3px;"><img src="https://ssl.gstatic.com/atari/images/sociallinks/twitter_gray_44dp.png" alt="Twitter" class="lEB4Hf" style="width: 44px; height: 44px;" width="44" height="44"></a>
   <a href="https://youtube.com/@me_PinkPanda" target="_blank" class="RNpQXe AIKCSc" style="width: 44px; height: 44px; margin: 3px;"><img src="https://ssl.gstatic.com/atari/images/sociallinks/youtube_gray_44dp.png" alt="YouTube" class="lEB4Hf" style="width: 44px; height: 44px;" width="44" height="44"></a>
 </div>
-</br>
-<p align="right">
+
+# ‎ 
+
+<p align="center">
+  <img src="https://github.com/me-PinkPanda/me-PinkPanda/blob/9403693c5d2f05f27d4eeb6978946315f798cf0e/assets/Pink%20Panda.png">
   <a href="https://github.com/me-PinkPanda"><img src="https://github-readme-stats.vercel.app/api?username=me-PinkPanda&hide_border=true&show_icons=true&theme=dark" alt="me-PinkPanda's github stats"></a>
 </p>
 
